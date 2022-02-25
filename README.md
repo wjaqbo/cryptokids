@@ -1,0 +1,2 @@
+# cryptokids
+Play with crypto
